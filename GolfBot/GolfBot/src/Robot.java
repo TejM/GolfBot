@@ -1,4 +1,3 @@
-
 import lejos.nxt.*;
 import lejos.robotics.RegulatedMotor;
 import lejos.robotics.RegulatedMotorListener;
